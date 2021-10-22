@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+background:white;
+width: 100vh;
+height: 100vh;
+display: block;
+margin-left: 300px;
+justify-content: center;
+}
+
+.coso{
+    border-style: solid none none none;
+    display: flex;
+    justify-content: space-around;
+}
+.real{
+    border: 2px solid blue;
+    margin-top: 20px;
+    height: 190px;
+    width: 200px;
+    
+}
+
+.coso1{
+    border: 2px solid blue;
+    margin-top: 20px;
+    height: 190px;
+    width: 200px;
+}
+
+.coso1 button{
+    display: block;
+    width: 150px;
+    margin: 22px 0 0 22px;
+    background: rgb(126, 126, 245);
+}
+
+.real button{
+    display: block;
+    width: 150px;
+    margin: 22px 0 0 22px;
+    background: rgb(126, 126, 245);
+}
+
+h6{
+    margin: 20px 0 10px 10px;
+}
